@@ -1,19 +1,49 @@
-# Data-Visualization-and-Text-mining
+---
+title: "Data Visualization Project"
+output: github_document
+---
 
-# Data Visualization Project
+# 📊 Data Visualization Project
 
-Descrizione:
-This corpus contains two different datasets: one comprises 1,123 Italian sentences and the other one made of 1,200 English sentences, each assessed by human evaluators for their complexity. The evaluations were gathered through a crowdsourcing task involving 20 native speakers for each language. Participants were asked to rate the perceived difficulty of a given sentence on a scale ranging from 1 (indicating 'very easy') to 7 (indicating 'very difficult').
+## 📌 Descrizione
 
-The sentences used in the task were sourced from two distinct treebanks that underwent manual review: the newspaper section of the Italian Universal Dependency Treebank (IUDT) for the Italian experiment, and the automatically converted Wall Street Journal section of the Penn Treebank for the English experiment.
+Questo corpus contiene due dataset distinti:
 
-Goal: the aim of this project is to construct a model that can predict the complexity judgement for each sentence through different techniques of text mining and data visualization.
+- **1.123 frasi italiane**
+- **1.200 frasi inglesi**
 
-In this notebook, we will analyze the English dataset.
+Ognuna è stata valutata da giudici umani per determinarne il livello di complessità percepita.  
+Le valutazioni sono state raccolte tramite **crowdsourcing**, coinvolgendo **20 madrelingua** per ciascuna lingua.  
+Ai partecipanti è stato chiesto di assegnare un punteggio da **1 (molto facile)** a **7 (molto difficile)** per ogni frase.
 
-📂 **Notebook Colab / Google Drive:**  
-[Apri il progetto su Google Drive](https://drive.google.com/file/d/1aFrMyUiQt7F4xEJaAALfGck41VQBOYwH/view?usp=share_link)
+Le frasi utilizzate provengono da due treebank sottoposti a revisione manuale:
+
+- 🇮🇹 **Italiano:** newspaper section dell’*Italian Universal Dependency Treebank (IUDT)*  
+- 🇬🇧 **Inglese:** *Wall Street Journal* del *Penn Treebank*, convertito automaticamente
 
 ---
 
-Autrice: **Fabiana Pagliuca**
+## 🎯 Obiettivo
+
+L'obiettivo di questo progetto è sviluppare un modello capace di **predire il giudizio di complessità** di ciascuna frase attraverso:
+
+- tecniche di **Text Mining**  
+- analisi e **Data Visualization**  
+- modellazione statistica e machine learning  
+
+In questo notebook analizzeremo il **dataset inglese**.
+
+---
+
+## 📂 Notebook Colab / Google Drive
+
+🔗 **Apri il notebook:**  
+[https://drive.google.com/file/d/1aFrMyUiQt7F4xEJaAALfGck41VQBOYwH/view?usp=share_link](https://drive.google.com/file/d/1aFrMyUiQt7F4xEJaAALfGck41VQBOYwH/view?usp=share_link)
+
+---
+
+## ✍️ Autrice
+
+**Fabiana Pagliuca**
+
+
