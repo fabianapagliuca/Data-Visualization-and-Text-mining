@@ -38,8 +38,4 @@ In questo notebook analizzeremo il **dataset inglese**.
 
 ---
 
-## ✍️ Autrice
-
-**Fabiana Pagliuca**
-
 
