@@ -1,6 +1,5 @@
 ---
 title: "Data Visualization Project"
-output: github_document
 ---
 
 # 📊 Data Visualization Project
